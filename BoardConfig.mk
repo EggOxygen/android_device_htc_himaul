@@ -20,4 +20,4 @@
 TARGET_OTA_ASSERT_DEVICE := htc_himaul,htc_himauhl,himaul,himauhl
 
 # inherit from the proprietary version
--include vendor/htc/himaul/BoardConfigVendor.mk
+#-include vendor/htc/himaul/BoardConfigVendor.mk
